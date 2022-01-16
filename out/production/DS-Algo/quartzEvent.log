@@ -1,0 +1,183 @@
+INFO    2021-10-21 13:39:21,774 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-21 14:07:12,412 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-21 14:07:12,420 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-21 14:07:12,430 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-21 14:07:12,450 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-21 14:07:12,471 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-21 14:07:12,502 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-21 14:07:12,522 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-21 16:20:27,077 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-21 16:20:27,084 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-21 16:20:27,090 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-21 16:20:27,112 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-21 16:20:27,130 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-21 16:20:27,156 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-21 16:20:27,173 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-22 12:07:14,281 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-22 12:07:14,292 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-22 12:07:14,301 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-22 12:07:14,322 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-22 12:07:14,341 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-22 12:07:14,367 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-22 12:07:14,385 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-22 14:14:38,516 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-22 14:14:38,524 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-22 14:14:38,534 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-22 14:14:38,552 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-22 14:14:38,567 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-22 14:14:38,592 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-22 14:14:38,608 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 13:35:28,933 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 13:35:28,942 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 13:35:28,954 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 13:35:28,985 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 13:35:29,006 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 13:35:29,045 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 13:35:29,068 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 13:58:25,499 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 13:58:25,505 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 13:58:25,514 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 13:58:25,532 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 13:58:25,549 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 13:58:25,574 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 13:58:25,587 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 14:00:39,806 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 14:00:39,815 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 14:00:39,825 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 14:00:39,845 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 14:00:39,868 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 14:00:39,903 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 14:00:39,922 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 14:31:50,303 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 14:31:50,314 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 14:31:50,324 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 14:31:50,347 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 14:31:50,375 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 14:31:50,414 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 14:31:50,439 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 14:34:53,396 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 14:34:53,407 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 14:34:53,421 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 14:34:53,456 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 14:34:53,489 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 14:34:53,533 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 14:34:53,626 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 14:36:32,406 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 14:36:32,416 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 14:36:32,426 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 14:36:32,446 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 14:36:32,465 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 14:36:32,492 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 14:36:32,509 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 14:42:22,643 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 14:42:22,651 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 14:42:22,661 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 14:42:22,689 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 14:42:22,713 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 14:42:22,744 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 14:42:22,763 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 16:45:56,680 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 16:45:56,693 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 16:45:56,702 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 16:45:56,731 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 16:45:56,758 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 16:45:56,795 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 16:45:56,820 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 16:49:49,936 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 16:49:49,943 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 16:49:49,956 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 16:49:49,985 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 16:49:50,010 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 16:49:50,049 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 16:49:50,071 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 16:55:18,381 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 16:55:18,388 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 16:55:18,396 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 16:55:18,415 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 16:55:18,434 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 16:55:18,456 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 16:55:18,467 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 17:19:28,380 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 17:19:28,388 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 17:19:28,394 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 17:19:28,416 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 17:19:28,438 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 17:19:28,469 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 17:19:28,491 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 18:16:35,971 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 18:16:35,978 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 18:16:35,987 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 18:16:36,009 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 18:16:36,026 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 18:16:36,049 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 18:16:36,064 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 18:31:19,632 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 18:31:19,643 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 18:31:19,657 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 18:31:19,814 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 18:31:19,843 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 18:31:19,886 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 18:31:19,908 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 18:32:33,911 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 18:32:33,916 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 18:32:33,929 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 18:32:33,951 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 18:32:33,978 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 18:32:34,014 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 18:32:34,038 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 19:05:24,568 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 19:05:24,581 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 19:05:24,591 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 19:05:24,612 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 19:05:24,634 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 19:05:24,668 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 19:05:24,685 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 19:14:10,447 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 19:14:10,457 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 19:14:10,463 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 19:14:10,490 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 19:14:10,512 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 19:14:10,548 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 19:14:10,570 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 19:17:17,555 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 19:17:17,561 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 19:17:17,576 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 19:17:17,606 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 19:17:17,635 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 19:17:17,665 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 19:17:17,686 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 19:22:09,719 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 19:22:09,730 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 19:22:09,738 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 19:22:09,758 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 19:22:09,787 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 19:22:09,819 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 19:22:09,839 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 19:25:20,840 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 19:25:20,847 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 19:25:20,864 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 19:25:20,888 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 19:25:20,911 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 19:25:20,946 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 19:25:20,971 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 20:05:02,115 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 20:05:02,125 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 20:05:02,132 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 20:05:02,154 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 20:05:02,176 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 20:05:02,207 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 20:05:02,226 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 20:25:41,488 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 20:25:41,496 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 20:25:41,511 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 20:25:41,539 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 20:25:41,567 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 20:25:41,613 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 20:25:41,642 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
+ERROR   2021-10-24 20:29:53,726 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property config invalid.
+ERROR   2021-10-24 20:29:53,733 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Property Config 'test' does not exist.
+ERROR   2021-10-24 20:29:53,739 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CsConnector Error
+ERROR   2021-10-24 20:29:53,787 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: CM Store Error
+ERROR   2021-10-24 20:29:53,837 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Batch Operation Error
+ERROR   2021-10-24 20:29:53,859 [main] quartzEventLogger  - Execution of scheduling rule failed for 'test'. Error: Error saving new config
+INFO    2021-10-24 20:29:53,874 [main] quartzEventLogger  - Scheduling rule 'test' executed successfully. Applied property configuration 'test'.
